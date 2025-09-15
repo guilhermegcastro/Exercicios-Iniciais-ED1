@@ -1,5 +1,5 @@
 /**
- * @file Exercicio8.c
+ * @file Exercicio08.c
  * @author Guilherme Castro
  * @date 2025-09-08
  * @brief
